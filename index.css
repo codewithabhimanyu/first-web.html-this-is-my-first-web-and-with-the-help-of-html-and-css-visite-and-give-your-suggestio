@@ -1,0 +1,176 @@
+    body{
+    background-color: whitesmoke;
+}
+.container{
+    margin: 0 64px;
+    padding: 8px;
+}
+.h1{
+    font-size: 60px;
+    text-shadow: 7px 7px 7px grey;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav_items{
+    display: flex;
+    gap: 70px;
+    align-items: center;
+}
+.paragraph_nav a{
+    font-size: 20px;
+    text-decoration: none;
+}
+.paragraph_nav a:hover{
+    color:green;
+    text-decoration: underline;
+
+}
+/*main header*/
+.name{
+    display:flex;
+    padding-top:64px ;
+    padding-button:64px;
+    justify-content: space-between;
+    align-items: center;
+    /*gap: 100px;*/
+}
+.mian_image{
+    width: 70px;
+    padding: 10px;
+}
+.low{
+width:700px;
+justify-content: flex-start;
+text-align: left;
+position: relative;
+right: 80px;
+}
+#car{
+    width: 350px;
+    height:200px;
+    align-items:right ;
+}
+.joke{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 55px;
+
+}
+.image1{
+    height:150px;
+    width: 200px;
+    border: 2px solid grey;
+    
+    
+}
+.heading9{
+    text-align: center;
+    margin-top: 3px;
+    margin-button:3px;
+    color: #818181;
+}
+.best{
+    width: 300px;
+    height:100px;
+}                          
+.great{
+    padding: 60px;
+display: inline;
+position: absolute;
+left: 50px;
+
+}
+.firstsection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.point{
+    width: 700px;
+    text-align: left;
+    position: relative;
+    left: 80px;
+    
+}
+.headingsto{
+    width: 700px;
+ padding-top: 50px;
+ font-size: 20px:
+ display;inline;
+  position:relative;
+  left:50px;
+  text-align:center;
+}
+.lastimage{
+    display: inline;
+
+position: absolute;
+left:1000px;
+top: 60rem;
+padding-top:50px;
+
+}
+
+/*footer*/
+
+.footer{background-color: rgba(0, 0, 0, 0.795);
+    position: relative;
+    top:120px;
+ display: flex;   
+
+}
+.minudiv{
+    color:rgb(243, 137, 15)
+    
+}
+.krp{
+    color:white;
+    display:inline;
+}
+.socontainer{
+    display:inline;
+    color:rgb(243 , 137, 15)
+    
+}
+/*-------ul class*/
+.totalview{
+    position: relative;
+    left:230px;
+}
+.anchor{
+    position: relative;
+    left:500px;
+}
+
+.mainmemory{
+    color:white;
+    position: relative;
+    left:240px;
+}
+
+.lastfooter{
+    display:inline;
+    color: rgb(243 , 137, 15);
+}
+
+.ssstep{
+    color: white;
+    position: relative;
+    left:500px;
+}
+
+.www{
+    color: rgb(243 , 137, 15);
+}
+
+.pw{
+    align-items: center;
+    margin:auto;
+    position: relative;
+    left:250px;
+}
